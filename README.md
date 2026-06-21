@@ -13,5 +13,5 @@ A real-time computer vision application designed to detect, track, and analyze h
 - Libraries: OpenCV, MediaPipe / TensorFlow 
 
 ## 👥 Project Contributors
-- Hafsa Khalique - (Model Training)
-- Aiyshah Meerab (@ash-06notabot) - Co-Creator & Project Collaborator
+- Hafsa Khalique - (Model Training and fine-tuning)
+- Aiyshah Meerab (@ash-06notabot) - Co-Creator & Project Collaborator (Model Training and fine-tuning)
